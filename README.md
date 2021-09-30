@@ -30,4 +30,9 @@ Here's a walkthrough of implemented user stories:
 ![ezgif com-video-to-gif](https://user-images.githubusercontent.com/88856401/134982814-c50b57ef-b93b-4a63-a22e-788ea212ccb9.gif)
 
 
+User stays logged in across restarts:
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/88856401/135541904-6b9b9593-52a3-4244-bbb1-d034ba38b7f7.gif)
+
+
 
