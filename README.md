@@ -32,7 +32,7 @@ Here's a walkthrough of implemented user stories:
 
 User stays logged in across restarts:
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/88856401/135541904-6b9b9593-52a3-4244-bbb1-d034ba38b7f7.gif)
+![reshot](https://user-images.githubusercontent.com/88856401/135547679-7734a0f0-cc49-4003-840f-eb3cfbc55dab.gif)
 
 
 
